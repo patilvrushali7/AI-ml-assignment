@@ -2,22 +2,6 @@
 
 This repository contains the code for predicting the next purchase of a user based on their purchase history. The data was simulated using purchase records from GenZDealZ.ai, which includes purchases from platforms such as Amazon, Flipkart, Zomato, and Swiggy.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Data Simulation](#data-simulation)
-- [Tools and Libraries](#tools-and-libraries)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training and Evaluation](#training-and-evaluation)
-- [Insights](#insights)
-- [Assumptions](#assumptions)
-- [Conclusion](#conclusion)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
-
 ## Overview
 
 The goal of this project is to develop a machine learning model capable of predicting the next purchase a user might make based on their historical purchase data. The data is simulated to reflect real-world scenarios using a list of purchases from GenZDealZ.ai.
